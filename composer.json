@@ -13,8 +13,8 @@
         "email": "m.pociot@gmail.com"
     }],
     "require": {
-        "php": ">=7.0",
-        "botman/botman": ">=2.0"
+        "php": ">=8.0",
+        "botman/botman": ">=3.0"
     },
     "require-dev": {
         "botman/studio-addons": "~1.0",
